@@ -1,3 +1,5 @@
+import time
+
 import allure
 
 from data.urls import FEED_URL
